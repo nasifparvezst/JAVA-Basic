@@ -12,9 +12,7 @@ public class ExcdeptionHandling {
       finally{
 
         System.out.println("Done it.");
-        int ros = a/b;
-        System.out.println("res ="+ros);
-        System.out.println("Ok");
+       
       }
   }
 }
